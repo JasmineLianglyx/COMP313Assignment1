@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Jasmine_A1",
+			"Path": "D:\\Comp313_A1\\Jasmine_A1\\Source\\Jasmine_A1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Jasmine_A1Editor",
+			"Path": "D:\\Comp313_A1\\Jasmine_A1\\Source\\Jasmine_A1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
